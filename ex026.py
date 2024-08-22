@@ -1,0 +1,1 @@
+'''primeira e ultima ocorrencia de uma string'''
